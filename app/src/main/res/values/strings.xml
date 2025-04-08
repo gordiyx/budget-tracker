@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Budget Tracker</string>
+    <string name="positive_amount">+₴%.2f</string>
+    <string name="negative_amount">-₴%.2f</string>
+</resources>
