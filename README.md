@@ -2,12 +2,12 @@
 
 **Budget Tracker** is a simple and intuitive Android app that helps you track your income and expenses. Visualize your financial habits, manage your money more efficiently, and reach your financial goals.
 
----
+
 
 ## 📱 Screenshots
 ![Main](screenshots/budget.png)
 
----
+
 
 ## 🧩 Features
 
@@ -18,7 +18,7 @@
 - 📈 **Dashboard summary** with current balance, total income, and total expenses.
 - 🔍 Simple navigation using **BottomNavigationView**.
 
----
+
 
 ## ⚙️ Tech Stack
 
