@@ -5,10 +5,7 @@
 ---
 
 ## 📱 Screenshots
-
-| Home Screen | Add Transaction | About Transaction | Income vs Expenses Chart |
-|-------------|------------------|---------------------------|---------------------------|
-| ![Main](screenshots/main.png) | ![Add](screenshots/add_transaction.png) | ![About](screenshots/about.png) | ![Chart](screenshots/chart.png) |
+![Main](screenshots/budget.png)
 
 ---
 
