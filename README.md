@@ -1,33 +1,32 @@
 # 💸 Budget Tracker
 
-**Budget Tracker** is a simple and intuitive Android app that helps you track your income and expenses. Visualize your financial habits, manage your money more efficiently, and reach your financial goals.
+**Budget Tracker** empowers users to efficiently track their income and expenses, gain insights into their spending habits, and improve financial planning — all within an intuitive Android application.
+
+![Main Screen](screenshots/budget.png)
 
 
-
-## 📱 Screenshots
-![Main](screenshots/budget.png)
-
-
-
-## 🧩 Features
-
-- ✅ **Add income and expenses** with labels, dates, amounts, and descriptions.
-- 📊 **Bar chart** visualization of income vs expenses.
-- 📅 **Grouped transactions by date** for easy tracking.
-- ✏️ **Edit and delete transactions** anytime.
-- 📈 **Dashboard summary** with current balance, total income, and total expenses.
-- 🔍 Simple navigation using **BottomNavigationView**.
+## 🧩 Key Features
+- **Quickly log income and expenses** with categories, amounts, dates, and notes — stay on top of your finances with ease.
+- **See your financial story in charts** - a clean bar graph shows income vs expenses at a glance.
+- **All transactions neatly organized by date**, making it simple to review your spending history.
+- **Edit or remove any entry whenever you need** — full control over your records.
+- **Get a snapshot of your balance with a dashboard** showing total income, expenses, and your current financial standing.
 
 
+## ⚙️ Technology Stack
 
-## ⚙️ Tech Stack
+- **Kotlin** — main programming language
+- **Android SDK** — core Android platform
+- **Room (SQLite)** — local database for persistent storage
+- **Kotlin Coroutines** — asynchronous and background operations
+- **MPAndroidChart** — powerful charting library
+- **Material Design Components** — for modern and accessible UI/UX
 
-- **Kotlin**
-- **Android SDK**
-- **Room (SQLite)** – local database
-- **Kotlin Coroutines** – background operations
-- **MPAndroidChart** – chart library
-- **Material Components** – for modern UI/UX
+---
+#### Future Improvements
 
-
-
+- [ ] Add support for recurring transactions.
+- [ ] List of categories.
+- [ ] Implement data export to CSV or Excel formats.
+- [ ] Integrate cloud sync (Firebase or alternative solutions).
+- [ ] Introduce Dark Mode for enhanced user experience.
