@@ -1,4 +1,4 @@
-package com.alterpat.budgettracker
+package com.gordiyx.budgettracker
 
 import org.junit.jupiter.api.Assertions.*
 

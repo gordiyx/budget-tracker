@@ -1,14 +1,26 @@
+# Ignore all .iml files
 *.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
+
+# Gradle files
+.gradle/
+local.properties
+
+# IntelliJ IDEA / Android Studio project files
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Unit test results
+/test
+
+# macOS system files
 .DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+
+# Build output directories
+/build/
+captures/
+.externalNativeBuild/
+.cxx/
